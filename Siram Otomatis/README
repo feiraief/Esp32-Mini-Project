@@ -1,1 +1,5 @@
-
+Requirement : 
+1. Mikrokontroller Esp32
+2. Relay
+3. Capacitive Soil Moisture
+4. Pump
